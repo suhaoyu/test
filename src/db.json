@@ -1,0 +1,758 @@
+{
+    "pokemon": [{
+            "id": 1,
+            "name": "妙蛙種子",
+            "img": "http://media.52poke.com/wiki/thumb/2/21/001Bulbasaur.png/300px-001Bulbasaur.png"
+        },
+        {
+            "id": 2,
+            "name": "妙蛙草",
+            "img": "http://media.52poke.com/wiki/thumb/7/73/002Ivysaur.png/300px-002Ivysaur.png"
+        },
+        {
+            "id": 3,
+            "name": "妙蛙花",
+            "img": "http://media.52poke.com/wiki/thumb/a/ae/003Venusaur.png/300px-003Venusaur.png"
+        },
+        {
+            "id": 4,
+            "name": "小火龍",
+            "img": "http://media.52poke.com/wiki/thumb/7/73/004Charmander.png/300px-004Charmander.png"
+        },
+        {
+            "id": 5,
+            "name": "火恐龍",
+            "img": "http://media.52poke.com/wiki/thumb/4/4a/005Charmeleon.png/300px-005Charmeleon.png"
+        },
+        {
+            "id": 6,
+            "name": "噴火龍",
+            "img": "http://media.52poke.com/wiki/thumb/7/7e/006Charizard.png/300px-006Charizard.png"
+        },
+        {
+            "id": 7,
+            "name": "傑尼龜",
+            "img": "http://media.52poke.com/wiki/thumb/3/39/007Squirtle.png/300px-007Squirtle.png"
+        },
+        {
+            "id": 8,
+            "name": "卡咪龜",
+            "img": "http://media.52poke.com/wiki/thumb/0/0c/008Wartortle.png/300px-008Wartortle.png"
+        },
+        {
+            "id": 9,
+            "name": "水箭龜",
+            "img": "http://media.52poke.com/wiki/thumb/0/02/009Blastoise.png/300px-009Blastoise.png"
+        },
+        {
+            "id": 10,
+            "name": "綠毛蟲",
+            "img": "http://media.52poke.com/wiki/thumb/5/5d/010Caterpie.png/300px-010Caterpie.png"
+        },
+        {
+            "id": 11,
+            "name": "鐵甲蛹",
+            "img": "http://media.52poke.com/wiki/thumb/c/cd/011Metapod.png/300px-011Metapod.png"
+        },
+        {
+            "id": 12,
+            "name": "巴大蝶",
+            "img": "http://media.52poke.com/wiki/thumb/d/d1/012Butterfree.png/300px-012Butterfree.png"
+        },
+        {
+            "id": 13,
+            "name": "獨角蟲",
+            "img": "http://media.52poke.com/wiki/thumb/d/df/013Weedle.png/300px-013Weedle.png"
+        },
+        {
+            "id": 14,
+            "name": "鐵殼蛹",
+            "img": "http://media.52poke.com/wiki/thumb/f/f0/014Kakuna.png/300px-014Kakuna.png"
+        },
+        {
+            "id": 15,
+            "name": "大針蜂",
+            "img": "http://media.52poke.com/wiki/thumb/6/61/015Beedrill.png/300px-015Beedrill.png"
+        },
+        {
+            "id": 16,
+            "name": "波波",
+            "img": "http://media.52poke.com/wiki/thumb/5/55/016Pidgey.png/300px-016Pidgey.png"
+        },
+        {
+            "id": 17,
+            "name": "比比鳥",
+            "img": "http://media.52poke.com/wiki/thumb/7/7a/017Pidgeotto.png/300px-017Pidgeotto.png"
+        },
+        {
+            "id": 18,
+            "name": "大比鳥",
+            "img": "http://media.52poke.com/wiki/thumb/5/57/018Pidgeot.png/300px-018Pidgeot.png"
+        },
+        {
+            "id": 19,
+            "name": "小拉達",
+            "img": "http://media.52poke.com/wiki/thumb/4/46/019Rattata.png/300px-019Rattata.png"
+        },
+        {
+            "id": 20,
+            "name": "拉達",
+            "img": "http://media.52poke.com/wiki/thumb/f/f4/020Raticate.png/300px-020Raticate.png"
+        },
+        {
+            "id": 21,
+            "name": "烈雀",
+            "img": "http://media.52poke.com/wiki/thumb/8/8b/021Spearow.png/300px-021Spearow.png"
+        },
+        {
+            "id": 22,
+            "name": "大嘴雀",
+            "img": "http://media.52poke.com/wiki/thumb/a/a0/022Fearow.png/300px-022Fearow.png"
+        },
+        {
+            "id": 23,
+            "name": "阿柏蛇",
+            "img": "http://media.52poke.com/wiki/thumb/f/fa/023Ekans.png/300px-023Ekans.png"
+        },
+        {
+            "id": 24,
+            "name": "阿柏怪",
+            "img": "http://media.52poke.com/wiki/thumb/c/cd/024Arbok.png/300px-024Arbok.png"
+        },
+        {
+            "id": 25,
+            "name": "皮卡丘",
+            "img": "http://media.52poke.com/wiki/thumb/0/0d/025Pikachu.png/260px-025Pikachu.png"
+        },
+        {
+            "id": 26,
+            "name": "雷丘",
+            "img": "http://media.52poke.com/wiki/thumb/8/88/026Raichu.png/300px-026Raichu.png"
+        },
+        {
+            "id": 27,
+            "name": "穿山鼠",
+            "img": "http://media.52poke.com/wiki/thumb/9/9e/027Sandshrew.png/300px-027Sandshrew.png"
+        },
+        {
+            "id": 28,
+            "name": "穿山王",
+            "img": "http://media.52poke.com/wiki/thumb/0/0b/028Sandslash.png/300px-028Sandslash.png"
+        },
+        {
+            "id": 29,
+            "name": "尼多蘭",
+            "img": "http://media.52poke.com/wiki/thumb/8/80/029Nidoran%E2%99%80.png/300px-029Nidoran%E2%99%80.png"
+        },
+        {
+            "id": 30,
+            "name": "尼多娜",
+            "img": "http://media.52poke.com/wiki/thumb/c/cd/030Nidorina.png/300px-030Nidorina.png"
+        },
+        {
+            "id": 31,
+            "name": "尼多后",
+            "img": "http://media.52poke.com/wiki/thumb/b/bf/031Nidoqueen.png/300px-031Nidoqueen.png"
+        },
+        {
+            "id": 32,
+            "name": "尼多朗",
+            "img": "http://media.52poke.com/wiki/thumb/0/02/032Nidoran%E2%99%82.png/300px-032Nidoran%E2%99%82.png"
+        },
+        {
+            "id": 33,
+            "name": "尼多力諾",
+            "img": "http://media.52poke.com/wiki/thumb/9/9f/033Nidorino.png/300px-033Nidorino.png"
+        },
+        {
+            "id": 34,
+            "name": "尼多王",
+            "img": "http://media.52poke.com/wiki/thumb/c/c6/034Nidoking.png/300px-034Nidoking.png"
+        },
+        {
+            "id": 35,
+            "name": "皮皮",
+            "img": "http://media.52poke.com/wiki/thumb/f/f4/035Clefairy.png/300px-035Clefairy.png"
+        },
+        {
+            "id": 36,
+            "name": "皮可西",
+            "img": "http://media.52poke.com/wiki/thumb/a/a9/036Clefable.png/300px-036Clefable.png"
+        },
+        {
+            "id": 37,
+            "name": "六尾",
+            "img": "http://media.52poke.com/wiki/thumb/6/60/037Vulpix.png/300px-037Vulpix.png"
+        },
+        {
+            "id": 38,
+            "name": "九尾",
+            "img": "http://media.52poke.com/wiki/thumb/0/05/038Ninetales.png/300px-038Ninetales.png"
+        },
+        {
+            "id": 39,
+            "name": "胖丁",
+            "img": "http://media.52poke.com/wiki/thumb/3/3e/039Jigglypuff.png/300px-039Jigglypuff.png"
+        },
+        {
+            "id": 40,
+            "name": "胖可丁",
+            "img": "http://media.52poke.com/wiki/thumb/9/92/040Wigglytuff.png/300px-040Wigglytuff.png"
+        },
+        {
+            "id": 41,
+            "name": "超音蝠",
+            "img": "http://media.52poke.com/wiki/thumb/d/da/041Zubat.png/300px-041Zubat.png"
+        },
+        {
+            "id": 42,
+            "name": "大嘴蝠",
+            "img": "http://media.52poke.com/wiki/thumb/0/0c/042Golbat.png/300px-042Golbat.png"
+        },
+        {
+            "id": 43,
+            "name": "走路草",
+            "img": "http://media.52poke.com/wiki/thumb/4/43/043Oddish.png/300px-043Oddish.png"
+        },
+        {
+            "id": 44,
+            "name": "臭臭花",
+            "img": "http://media.52poke.com/wiki/thumb/2/2a/044Gloom.png/300px-044Gloom.png"
+        },
+        {
+            "id": 45,
+            "name": "霸王花",
+            "img": "http://media.52poke.com/wiki/thumb/6/6a/045Vileplume.png/300px-045Vileplume.png"
+        },
+        {
+            "id": 46,
+            "name": "派拉斯",
+            "img": "http://media.52poke.com/wiki/thumb/d/d4/046Paras.png/300px-046Paras.png"
+        },
+        {
+            "id": 47,
+            "name": "派拉斯特",
+            "img": "http://media.52poke.com/wiki/thumb/8/80/047Parasect.png/300px-047Parasect.png"
+        },
+        {
+            "id": 48,
+            "name": "毛球",
+            "img": "http://media.52poke.com/wiki/thumb/a/ad/048Venonat.png/300px-048Venonat.png"
+        },
+        {
+            "id": 49,
+            "name": "摩魯蛾",
+            "img": "http://media.52poke.com/wiki/thumb/d/d3/049Venomoth.png/300px-049Venomoth.png"
+        },
+        {
+            "id": 50,
+            "name": "地鼠",
+            "img": "http://media.52poke.com/wiki/thumb/3/31/050Diglett.png/300px-050Diglett.png"
+        },
+        {
+            "id": 51,
+            "name": "三地鼠",
+            "img": "http://media.52poke.com/wiki/thumb/e/e5/051Dugtrio.png/300px-051Dugtrio.png"
+        },
+        {
+            "id": 52,
+            "name": "喵喵",
+            "img": "http://media.52poke.com/wiki/thumb/d/d6/052Meowth.png/300px-052Meowth.png"
+        },
+        {
+            "id": 53,
+            "name": "貓老大",
+            "img": "http://media.52poke.com/wiki/thumb/1/13/053Persian.png/300px-053Persian.png"
+        },
+        {
+            "id": 54,
+            "name": "可達鴨",
+            "img": "http://media.52poke.com/wiki/thumb/5/53/054Psyduck.png/300px-054Psyduck.png"
+        },
+        {
+            "id": 55,
+            "name": "哥達鴨",
+            "img": "http://media.52poke.com/wiki/thumb/f/fe/055Golduck.png/300px-055Golduck.png"
+        },
+        {
+            "id": 56,
+            "name": "猴怪",
+            "img": "http://media.52poke.com/wiki/thumb/4/41/056Mankey.png/300px-056Mankey.png"
+        },
+        {
+            "id": 57,
+            "name": "火爆猴",
+            "img": "http://media.52poke.com/wiki/thumb/9/9a/057Primeape.png/300px-057Primeape.png"
+        },
+        {
+            "id": 58,
+            "name": "卡蒂狗",
+            "img": "http://media.52poke.com/wiki/thumb/3/3d/058Growlithe.png/300px-058Growlithe.png"
+        },
+        {
+            "id": 59,
+            "name": "風速狗",
+            "img": "http://media.52poke.com/wiki/thumb/b/b8/059Arcanine.png/300px-059Arcanine.png"
+        },
+        {
+            "id": 60,
+            "name": "蚊香蝌蚪",
+            "img": "http://media.52poke.com/wiki/thumb/4/49/060Poliwag.png/300px-060Poliwag.png"
+        },
+        {
+            "id": 61,
+            "name": "蚊香君",
+            "img": "http://media.52poke.com/wiki/thumb/a/a9/061Poliwhirl.png/300px-061Poliwhirl.png"
+        },
+        {
+            "id": 62,
+            "name": "蚊香泳士",
+            "img": "http://media.52poke.com/wiki/thumb/2/2d/062Poliwrath.png/300px-062Poliwrath.png"
+        },
+        {
+            "id": 63,
+            "name": "凱西",
+            "img": "http://media.52poke.com/wiki/thumb/6/62/063Abra.png/300px-063Abra.png"
+        },
+        {
+            "id": 64,
+            "name": "勇基拉",
+            "img": "http://media.52poke.com/wiki/thumb/9/97/064Kadabra.png/300px-064Kadabra.png"
+        },
+        {
+            "id": 65,
+            "name": "胡地",
+            "img": "http://media.52poke.com/wiki/thumb/c/cc/065Alakazam.png/300px-065Alakazam.png"
+        },
+        {
+            "id": 66,
+            "name": "腕力",
+            "img": "http://media.52poke.com/wiki/thumb/8/85/066Machop.png/300px-066Machop.png"
+        },
+        {
+            "id": 67,
+            "name": "豪力",
+            "img": "http://media.52poke.com/wiki/thumb/8/8e/067Machoke.png/300px-067Machoke.png"
+        },
+        {
+            "id": 68,
+            "name": "怪力",
+            "img": "http://media.52poke.com/wiki/thumb/8/8f/068Machamp.png/300px-068Machamp.png"
+        },
+        {
+            "id": 69,
+            "name": "喇叭芽",
+            "img": "http://media.52poke.com/wiki/thumb/a/a2/069Bellsprout.png/300px-069Bellsprout.png"
+        },
+        {
+            "id": 70,
+            "name": "口呆花",
+            "img": "http://media.52poke.com/wiki/thumb/9/9f/070Weepinbell.png/300px-070Weepinbell.png"
+        },
+        {
+            "id": 71,
+            "name": "大食花",
+            "img": "http://media.52poke.com/wiki/thumb/b/be/071Victreebel.png/300px-071Victreebel.png"
+        },
+        {
+            "id": 72,
+            "name": "瑪瑙水母",
+            "img": "http://media.52poke.com/wiki/thumb/4/4e/072Tentacool.png/300px-072Tentacool.png"
+        },
+        {
+            "id": 73,
+            "name": "毒刺水母",
+            "img": "http://media.52poke.com/wiki/thumb/f/f6/073Tentacruel.png/300px-073Tentacruel.png"
+        },
+        {
+            "id": 74,
+            "name": "小拳石",
+            "img": "http://media.52poke.com/wiki/thumb/9/98/074Geodude.png/300px-074Geodude.png"
+        },
+        {
+            "id": 75,
+            "name": "隆隆石",
+            "img": "http://media.52poke.com/wiki/thumb/7/75/075Graveler.png/300px-075Graveler.png"
+        },
+        {
+            "id": 76,
+            "name": "隆隆岩",
+            "img": "http://media.52poke.com/wiki/thumb/f/f2/076Golem.png/300px-076Golem.png"
+        },
+        {
+            "id": 77,
+            "name": "小火馬",
+            "img": "http://media.52poke.com/wiki/thumb/3/3b/077Ponyta.png/300px-077Ponyta.png"
+        },
+        {
+            "id": 78,
+            "name": "烈焰馬",
+            "img": "http://media.52poke.com/wiki/thumb/3/3f/078Rapidash.png/300px-078Rapidash.png"
+        },
+        {
+            "id": 79,
+            "name": "呆呆獸",
+            "img": "http://media.52poke.com/wiki/thumb/7/70/079Slowpoke.png/300px-079Slowpoke.png"
+        },
+        {
+            "id": 80,
+            "name": "呆殼獸",
+            "img": "http://media.52poke.com/wiki/thumb/8/80/080Slowbro.png/300px-080Slowbro.png"
+        },
+        {
+            "id": 81,
+            "name": "小磁怪",
+            "img": "http://media.52poke.com/wiki/thumb/6/6c/081Magnemite.png/300px-081Magnemite.png"
+        },
+        {
+            "id": 82,
+            "name": "三合一磁怪",
+            "img": "http://media.52poke.com/wiki/thumb/7/72/082Magneton.png/300px-082Magneton.png"
+        },
+        {
+            "id": 83,
+            "name": "大蔥鴨",
+            "img": "http://media.52poke.com/wiki/thumb/f/f8/083Farfetch%27d.png/300px-083Farfetch%27d.png"
+        },
+        {
+            "id": 84,
+            "name": "嘟嘟",
+            "img": "http://media.52poke.com/wiki/thumb/5/54/084Doduo.png/300px-084Doduo.png"
+        },
+        {
+            "id": 85,
+            "name": "嘟嘟利",
+            "img": "http://media.52poke.com/wiki/thumb/9/93/085Dodrio.png/300px-085Dodrio.png"
+        },
+        {
+            "id": 86,
+            "name": "小海獅",
+            "img": "http://media.52poke.com/wiki/thumb/1/1f/086Seel.png/300px-086Seel.png"
+        },
+        {
+            "id": 87,
+            "name": "白海獅",
+            "img": "http://media.52poke.com/wiki/thumb/c/c7/087Dewgong.png/300px-087Dewgong.png"
+        },
+        {
+            "id": 88,
+            "name": "臭泥",
+            "img": "http://media.52poke.com/wiki/thumb/a/a0/088Grimer.png/300px-088Grimer.png"
+        },
+        {
+            "id": 89,
+            "name": "臭臭泥",
+            "img": "http://media.52poke.com/wiki/thumb/7/7c/089Muk.png/300px-089Muk.png"
+        },
+        {
+            "id": 90,
+            "name": "大舌貝",
+            "img": "http://media.52poke.com/wiki/thumb/4/40/090Shellder.png/300px-090Shellder.png"
+        },
+        {
+            "id": 91,
+            "name": "刺甲貝",
+            "img": "http://media.52poke.com/wiki/thumb/1/1d/091Cloyster.png/300px-091Cloyster.png"
+        },
+        {
+            "id": 92,
+            "name": "鬼斯",
+            "img": "http://media.52poke.com/wiki/thumb/c/ca/092Gastly.png/300px-092Gastly.png"
+        },
+        {
+            "id": 93,
+            "name": "鬼斯通",
+            "img": "http://media.52poke.com/wiki/thumb/6/62/093Haunter.png/300px-093Haunter.png"
+        },
+        {
+            "id": 94,
+            "name": "耿鬼",
+            "img": "http://media.52poke.com/wiki/thumb/c/c6/094Gengar.png/300px-094Gengar.png"
+        },
+        {
+            "id": 95,
+            "name": "大岩蛇",
+            "img": "http://media.52poke.com/wiki/thumb/9/9a/095Onix.png/300px-095Onix.png"
+        },
+        {
+            "id": 96,
+            "name": "催眠貘",
+            "img": "http://media.52poke.com/wiki/thumb/3/3e/096Drowzee.png/300px-096Drowzee.png"
+        },
+        {
+            "id": 97,
+            "name": "引夢貘人",
+            "img": "http://media.52poke.com/wiki/thumb/0/0a/097Hypno.png/300px-097Hypno.png"
+        },
+        {
+            "id": 98,
+            "name": "大鉗蟹",
+            "img": "http://media.52poke.com/wiki/thumb/a/a7/098Krabby.png/300px-098Krabby.png"
+        },
+        {
+            "id": 99,
+            "name": "巨鉗蟹",
+            "img": "http://media.52poke.com/wiki/thumb/7/71/099Kingler.png/300px-099Kingler.png"
+        },
+        {
+            "id": 100,
+            "name": "霹靂電球",
+            "img": "http://media.52poke.com/wiki/thumb/d/da/100Voltorb.png/300px-100Voltorb.png"
+        },
+        {
+            "id": 101,
+            "name": "頑皮雷彈",
+            "img": "http://media.52poke.com/wiki/thumb/8/84/101Electrode.png/300px-101Electrode.png"
+        },
+        {
+            "id": 102,
+            "name": "蛋蛋",
+            "img": "http://media.52poke.com/wiki/thumb/a/af/102Exeggcute.png/300px-102Exeggcute.png"
+        },
+        {
+            "id": 103,
+            "name": "椰蛋樹",
+            "img": "http://media.52poke.com/wiki/thumb/2/24/103Exeggutor.png/300px-103Exeggutor.png"
+        },
+        {
+            "id": 104,
+            "name": "卡拉卡拉",
+            "img": "http://media.52poke.com/wiki/thumb/2/2a/104Cubone.png/300px-104Cubone.png"
+        },
+        {
+            "id": 105,
+            "name": "嘎啦嘎啦",
+            "img": "http://media.52poke.com/wiki/thumb/9/98/105Marowak.png/300px-105Marowak.png"
+        },
+        {
+            "id": 106,
+            "name": "飛腿郎",
+            "img": "http://media.52poke.com/wiki/thumb/3/32/106Hitmonlee.png/300px-106Hitmonlee.png"
+        },
+        {
+            "id": 107,
+            "name": "快拳郎",
+            "img": "http://media.52poke.com/wiki/thumb/a/a3/107Hitmonchan.png/300px-107Hitmonchan.png"
+        },
+        {
+            "id": 108,
+            "name": "大舌頭",
+            "img": "http://media.52poke.com/wiki/thumb/0/00/108Lickitung.png/300px-108Lickitung.png"
+        },
+        {
+            "id": 109,
+            "name": "瓦斯彈",
+            "img": "http://media.52poke.com/wiki/thumb/1/17/109Koffing.png/300px-109Koffing.png"
+        },
+        {
+            "id": 110,
+            "name": "雙彈瓦斯",
+            "img": "http://media.52poke.com/wiki/thumb/4/42/110Weezing.png/300px-110Weezing.png"
+        },
+        {
+            "id": 111,
+            "name": "獨角犀牛",
+            "img": "http://media.52poke.com/wiki/thumb/9/9b/111Rhyhorn.png/300px-111Rhyhorn.png"
+        },
+        {
+            "id": 112,
+            "name": "鑽角犀獸",
+            "img": "http://media.52poke.com/wiki/thumb/4/47/112Rhydon.png/300px-112Rhydon.png"
+        },
+        {
+            "id": 113,
+            "name": "吉利蛋",
+            "img": "http://media.52poke.com/wiki/thumb/c/cd/113Chansey.png/300px-113Chansey.png"
+        },
+        {
+            "id": 114,
+            "name": "蔓藤怪",
+            "img": "http://media.52poke.com/wiki/thumb/3/3e/114Tangela.png/300px-114Tangela.png"
+        },
+        {
+            "id": 115,
+            "name": "袋獸",
+            "img": "http://media.52poke.com/wiki/thumb/4/4e/115Kangaskhan.png/300px-115Kangaskhan.png"
+        },
+        {
+            "id": 116,
+            "name": "墨海馬",
+            "img": "http://media.52poke.com/wiki/thumb/5/5a/116Horsea.png/300px-116Horsea.png"
+        },
+        {
+            "id": 117,
+            "name": "海刺龍",
+            "img": "http://media.52poke.com/wiki/thumb/2/26/117Seadra.png/300px-117Seadra.png"
+        },
+        {
+            "id": 118,
+            "name": "角金魚",
+            "img": "http://media.52poke.com/wiki/thumb/7/7b/118Goldeen.png/300px-118Goldeen.png"
+        },
+        {
+            "id": 119,
+            "name": "金魚王",
+            "img": "http://media.52poke.com/wiki/thumb/6/6a/119Seaking.png/300px-119Seaking.png"
+        },
+        {
+            "id": 120,
+            "name": "海星星",
+            "img": "http://media.52poke.com/wiki/thumb/4/4f/120Staryu.png/300px-120Staryu.png"
+        },
+        {
+            "id": 121,
+            "name": "寶石海星",
+            "img": "http://media.52poke.com/wiki/thumb/c/cd/121Starmie.png/300px-121Starmie.png"
+        },
+        {
+            "id": 122,
+            "name": "魔牆人偶",
+            "img": "http://media.52poke.com/wiki/thumb/e/ec/122Mr._Mime.png/300px-122Mr._Mime.png"
+        },
+        {
+            "id": 123,
+            "name": "飛天螳螂",
+            "img": "http://media.52poke.com/wiki/thumb/b/ba/123Scyther.png/300px-123Scyther.png"
+        },
+        {
+            "id": 124,
+            "name": "迷唇姐",
+            "img": "http://media.52poke.com/wiki/thumb/7/7c/124Jynx.png/300px-124Jynx.png"
+        },
+        {
+            "id": 125,
+            "name": "電擊獸",
+            "img": "http://media.52poke.com/wiki/thumb/d/de/125Electabuzz.png/300px-125Electabuzz.png"
+        },
+        {
+            "id": 126,
+            "name": "鴨嘴火獸",
+            "img": "http://media.52poke.com/wiki/thumb/8/8c/126Magmar.png/300px-126Magmar.png"
+        },
+        {
+            "id": 127,
+            "name": "凱羅斯",
+            "img": "http://media.52poke.com/wiki/thumb/7/71/127Pinsir.png/300px-127Pinsir.png"
+        },
+        {
+            "id": 128,
+            "name": "肯泰羅",
+            "img": "http://media.52poke.com/wiki/thumb/b/b8/128Tauros.png/300px-128Tauros.png"
+        },
+        {
+            "id": 129,
+            "name": "鯉魚王",
+            "img": "http://media.52poke.com/wiki/thumb/0/02/129Magikarp.png/300px-129Magikarp.png"
+        },
+        {
+            "id": 130,
+            "name": "暴鯉龍",
+            "img": "http://media.52poke.com/wiki/thumb/4/41/130Gyarados.png/300px-130Gyarados.png"
+        },
+        {
+            "id": 131,
+            "name": "拉普拉斯",
+            "img": "http://media.52poke.com/wiki/thumb/a/ab/131Lapras.png/300px-131Lapras.png"
+        },
+        {
+            "id": 132,
+            "name": "百變怪",
+            "img": "http://media.52poke.com/wiki/thumb/3/36/132Ditto.png/300px-132Ditto.png"
+        },
+        {
+            "id": 133,
+            "name": "伊布",
+            "img": "http://media.52poke.com/wiki/thumb/e/e2/133Eevee.png/300px-133Eevee.png"
+        },
+        {
+            "id": 134,
+            "name": "水伊布",
+            "img": "http://media.52poke.com/wiki/thumb/f/fd/134Vaporeon.png/300px-134Vaporeon.png"
+        },
+        {
+            "id": 135,
+            "name": "雷伊布",
+            "img": "http://media.52poke.com/wiki/thumb/b/bb/135Jolteon.png/300px-135Jolteon.png"
+        },
+        {
+            "id": 136,
+            "name": "火伊布",
+            "img": "http://media.52poke.com/wiki/thumb/d/dd/136Flareon.png/300px-136Flareon.png"
+        },
+        {
+            "id": 137,
+            "name": "多邊獸",
+            "img": "http://media.52poke.com/wiki/thumb/6/6b/137Porygon.png/300px-137Porygon.png"
+        },
+        {
+            "id": 138,
+            "name": "菊石獸",
+            "img": "http://media.52poke.com/wiki/thumb/7/79/138Omanyte.png/300px-138Omanyte.png"
+        },
+        {
+            "id": 139,
+            "name": "多刺菊石獸",
+            "img": "http://media.52poke.com/wiki/thumb/4/43/139Omastar.png/300px-139Omastar.png"
+        },
+        {
+            "id": 140,
+            "name": "化石盔",
+            "img": "http://media.52poke.com/wiki/thumb/f/f9/140Kabuto.png/300px-140Kabuto.png"
+        },
+        {
+            "id": 141,
+            "name": "鐮刀盔",
+            "img": "http://media.52poke.com/wiki/thumb/2/29/141Kabutops.png/300px-141Kabutops.png"
+        },
+        {
+            "id": 142,
+            "name": "化石翼龍",
+            "img": "http://media.52poke.com/wiki/thumb/e/e8/142Aerodactyl.png/300px-142Aerodactyl.png"
+        },
+        {
+            "id": 143,
+            "name": "卡比獸",
+            "img": "http://media.52poke.com/wiki/thumb/f/fb/143Snorlax.png/300px-143Snorlax.png"
+        },
+        {
+            "id": 144,
+            "name": "急凍鳥",
+            "img": "http://media.52poke.com/wiki/thumb/4/4e/144Articuno.png/300px-144Articuno.png"
+        },
+        {
+            "id": 145,
+            "name": "閃電鳥",
+            "img": "http://media.52poke.com/wiki/thumb/e/e3/145Zapdos.png/300px-145Zapdos.png"
+        },
+        {
+            "id": 146,
+            "name": "火焰鳥",
+            "img": "http://media.52poke.com/wiki/thumb/1/1b/146Moltres.png/300px-146Moltres.png"
+        },
+        {
+            "id": 147,
+            "name": "迷你龍",
+            "img": "http://media.52poke.com/wiki/thumb/c/cc/147Dratini.png/300px-147Dratini.png"
+        },
+        {
+            "id": 148,
+            "name": "哈克龍",
+            "img": "http://media.52poke.com/wiki/thumb/9/93/148Dragonair.png/300px-148Dragonair.png"
+        },
+        {
+            "id": 149,
+            "name": "快龍",
+            "img": "http://media.52poke.com/wiki/thumb/8/8b/149Dragonite.png/300px-149Dragonite.png"
+        },
+        {
+            "id": 150,
+            "name": "超夢",
+            "img": "http://media.52poke.com/wiki/thumb/7/78/150Mewtwo.png/300px-150Mewtwo.png"
+        },
+        {
+            "id": 151,
+            "name": "夢幻",
+            "img": "http://media.52poke.com/wiki/thumb/b/b1/151Mew.png/300px-151Mew.png"
+        }
+    ]
+}
